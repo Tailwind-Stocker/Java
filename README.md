@@ -1,4 +1,4 @@
 # Java
 
-Beginner Friendly Java Programs.<br>
-####### Common Java Programs.
+- Beginner Friendly Java Programs.<br>
+- Common Java Programs.
